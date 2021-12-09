@@ -2,7 +2,7 @@
 - 👀 I’m interested in developers, both backend/frontend
 - 🌱 I’m currently growing/expanding our business
 - 💞️ I’m looking to collaborate on projects and assignments 
-- 📫 How to reach me: marcus.hultberg@zocom.se
+- 📫 How to reach me: marcus.hultberg@zocom.se / 0708273490
 
 <!---
 MarcusHultberg/MarcusHultberg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
