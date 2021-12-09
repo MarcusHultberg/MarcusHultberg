@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarcusHultberg
 - 👀 I’m interested in developers, both backend/frontend
 - 🌱 I’m currently growing/expanding our business
-- 💞️ I’m looking to collaborate on projects and assigments 
+- 💞️ I’m looking to collaborate on projects and assignments 
 - 📫 How to reach me: marcus.hultberg@zocom.se
 
 <!---
